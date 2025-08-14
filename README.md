@@ -1,16 +1,4 @@
-<p align="center">
-![](https://github-readme-stats.vercel.app/api?username=MahdiMirshafiee&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
-</p>
-
-<p align="center">
-![](https://nirzak-streak-stats.vercel.app/?user=MahdiMirshafiee&theme=transparent&hide_border=false)<br/>
-</p>
-
-<p align="center"><img  ![](https://github-readme-stats.vercel.app/api?username=MahdiMirshafiee&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
-/></p>
-
-
-![](https://github-readme-stats.vercel.app/api?username=MahdiMirshafiee&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![center](https://github-readme-stats.vercel.app/api?username=MahdiMirshafiee&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=MahdiMirshafiee&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MahdiMirshafiee&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
