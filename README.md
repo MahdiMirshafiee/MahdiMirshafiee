@@ -1,7 +1,3 @@
-<h2 align="left">Hi! I'm Mahdi 🦧</h2>
-
-###
-
 <h5 align="center">Committed to committing more!</h5>
 
 <div align="center">
